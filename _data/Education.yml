@@ -2,17 +2,12 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Turing School of Software and Design, Backend Web Development
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
-    description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+    - Intensive 7 month, 60-80 hour/week, ACCET accredited software development program designed to teach students to build a strong, comprehensive foundation in technical problem-solving, collaborating with teams, and learning and implementing new technologies quickly.
+    - Project-based and instructor-led learning with solo and group projects 
+    - Fully remote with extensive experience using Git workflow, creating pull requests, and conducting peer code reviews
+    - Ruby, Rails, TDD with RSpec, PostgreSQL database, SQL, Github Projects, Heroku
+    date: Mar. 2024 - Oct. 2024
+  - title: Bucknell University, BA in Political Science & Art/Art History
+    date: 2006 - 2010

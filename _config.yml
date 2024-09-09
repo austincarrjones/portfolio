@@ -2,17 +2,14 @@ title: My Portfolio Site
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: Austin Carr-Jones
+job: Software Engineer
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 908-892-5792
+address: Westford, MA
+email: austincarr.jones@gmail.com
+linkedin_username: austin-carr-jones
+github_username: austincarrjones
 
 theme: jekyll-professional-resume
 
@@ -20,6 +17,7 @@ exclude:
   - _posts/
   - resources/
   - vendor/
+  - awards
 
 
 # Welcome to Jekyll!
